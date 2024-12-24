@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch, Routes } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
 import About from './pages/About';
@@ -24,7 +24,7 @@ import Checkout from './pages/Checkout';
 function App() {
   return (
    <>
-   <BrowserRouter>
+   <Router>
     <Routes>
       <Route path="/" element={<Layout/>}>
        <Route index element={<Home/>}/>
@@ -53,7 +53,7 @@ function App() {
 
       </Route>
     </Routes>
-   </BrowserRouter>
+   </Router>
    </>
   );
 }
