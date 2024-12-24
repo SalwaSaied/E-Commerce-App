@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/E-commerce-App/static/css/main.2516ddfe.css",
-    "main.js": "/E-commerce-App/static/js/main.cb462388.js",
-    "static/media/tab.jpg": "/E-commerce-App/static/media/tab.01a5416221bf2559a442.jpg",
-    "static/media/tab2.jpg": "/E-commerce-App/static/media/tab2.99b77ed36cf42f977de6.jpg",
-    "static/media/blog-1.jpg": "/E-commerce-App/static/media/blog-1.ba155d989afb69b6f6b8.jpg",
-    "static/media/famous-1.jpg": "/E-commerce-App/static/media/famous-1.87db9c16073161499126.jpg",
-    "static/media/menu.svg": "/E-commerce-App/static/media/menu.0fd9209b0e37744ccd2a6bbe7be97bd1.svg",
-    "index.html": "/E-commerce-App/index.html",
-    "static/media/compare.svg": "/E-commerce-App/static/media/compare.1c839d87cb27f1e45f1a3bc4a9e300ea.svg",
-    "static/media/view.svg": "/E-commerce-App/static/media/view.656dca615fdc5fb084c5199c18eeb24a.svg",
-    "static/media/wish.svg": "/E-commerce-App/static/media/wish.417da1a5c71c1c516af8c35a335efa66.svg",
-    "static/media/prodcompare.svg": "/E-commerce-App/static/media/prodcompare.2bbfd340c94177fd1223af04956c03dc.svg",
-    "static/media/add-cart.svg": "/E-commerce-App/static/media/add-cart.07089cca7ace32a4716dc122b1b11a68.svg",
-    "static/media/wishlist.svg": "/E-commerce-App/static/media/wishlist.e2b76316c68ed8ae4128cca85f622430.svg",
-    "main.2516ddfe.css.map": "/E-commerce-App/static/css/main.2516ddfe.css.map",
-    "main.cb462388.js.map": "/E-commerce-App/static/js/main.cb462388.js.map"
+    "main.css": "/E-Commerce-App/static/css/main.2516ddfe.css",
+    "main.js": "/E-Commerce-App/static/js/main.9a3807dd.js",
+    "static/media/tab.jpg": "/E-Commerce-App/static/media/tab.01a5416221bf2559a442.jpg",
+    "static/media/tab2.jpg": "/E-Commerce-App/static/media/tab2.99b77ed36cf42f977de6.jpg",
+    "static/media/blog-1.jpg": "/E-Commerce-App/static/media/blog-1.ba155d989afb69b6f6b8.jpg",
+    "static/media/famous-1.jpg": "/E-Commerce-App/static/media/famous-1.87db9c16073161499126.jpg",
+    "static/media/menu.svg": "/E-Commerce-App/static/media/menu.0fd9209b0e37744ccd2a6bbe7be97bd1.svg",
+    "index.html": "/E-Commerce-App/index.html",
+    "static/media/compare.svg": "/E-Commerce-App/static/media/compare.1c839d87cb27f1e45f1a3bc4a9e300ea.svg",
+    "static/media/view.svg": "/E-Commerce-App/static/media/view.656dca615fdc5fb084c5199c18eeb24a.svg",
+    "static/media/wish.svg": "/E-Commerce-App/static/media/wish.417da1a5c71c1c516af8c35a335efa66.svg",
+    "static/media/prodcompare.svg": "/E-Commerce-App/static/media/prodcompare.2bbfd340c94177fd1223af04956c03dc.svg",
+    "static/media/add-cart.svg": "/E-Commerce-App/static/media/add-cart.07089cca7ace32a4716dc122b1b11a68.svg",
+    "static/media/wishlist.svg": "/E-Commerce-App/static/media/wishlist.e2b76316c68ed8ae4128cca85f622430.svg",
+    "main.2516ddfe.css.map": "/E-Commerce-App/static/css/main.2516ddfe.css.map",
+    "main.9a3807dd.js.map": "/E-Commerce-App/static/js/main.9a3807dd.js.map"
   },
   "entrypoints": [
     "static/css/main.2516ddfe.css",
-    "static/js/main.cb462388.js"
+    "static/js/main.9a3807dd.js"
   ]
 }
