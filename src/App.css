@@ -294,8 +294,7 @@ footer .input-group-text{
     .services div{
       margin-bottom: 10px;
     }
-    .services img{
-    }
+    /* Removed empty ruleset for .services img */
   }
 }
 /* home wrapper 2 End */
